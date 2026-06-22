@@ -93,18 +93,6 @@ Real-time server monitoring dashboard using WebSocket and Chart.js with live lat
 
 ---
 
-## 🐍 Contribution Snake
-
-```yaml
-Add this GitHub Action:
-Platane/snk
-```
-
-Then display:
-
-![Snake animation](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🤝 Connect With Me
 
