@@ -29,7 +29,7 @@ Building scalable web applications, cloud-based solutions, and real-time systems
 
 🌱 Currently learning System Design and Advanced Backend Development
 
-📫 Check out my Portfolio: **[https://aamir-portfolio-rust.vercel.app/]**
+📫 Check out my Portfolio: **https://aamir-portfolio-rust.vercel.app/**
 
 📫 Reach me at: **[workwithamir711@gmail.com](mailto:workwithamir711@gmail.com)**
 
